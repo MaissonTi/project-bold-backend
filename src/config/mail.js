@@ -7,6 +7,6 @@ export default {
     pass: process.env.MAIL_PASS,
   },
   default: {
-    from: 'Equipe Marmitex <noreplay@gmaYl.com>',
+    from: 'Bold Cursos Online <noreplay@gmaYl.com>',
   },
 };
